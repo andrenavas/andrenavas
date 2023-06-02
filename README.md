@@ -12,7 +12,7 @@ I've been learning to code for the last year, after deciding to make a career ch
 const andre = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [Node, Firebase, Vercel, Git, GitHub. Jest, Figma],
+  tools: [Node, Firebase, Vercel, Git, GitHub, Jest, Figma],
   techCommunities: {
                         bootcamper: "Laboratoria",
                       },
