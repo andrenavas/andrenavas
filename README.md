@@ -8,6 +8,18 @@ Front - End Developer
 
 I've been learning to code for the last year, after deciding to make a career change (I'm also an Industrial Engineer). I like to create user friendly pages, I have worked with HTML, CSS and JavaScript. I am looking to grow in this tech world and always learn new things...
 
+```javascript
+const andre = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [Node, Firebase, Vercel, Git, GitHub. Jest, Figma],
+  techCommunities: {
+                        bootcamper: "Laboratoria",
+                      },
+ challenge: "I am doing at least one JavaScript exercise a day"
+}
+```
+
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [My GitHub](http://github.com/andrenavas)
 * ✉️  You can contact me at [andreynanavas@gmail.com](mailto:andreynanavas@gmail.com)
