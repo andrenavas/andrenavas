@@ -1,4 +1,4 @@
-<img align='center' src="https://drive.google.com/file/d/1dMwtrT4QDYcMflW8kxUiR3oJld3G87CF/view?usp=drive_link">
+![Banner Profile](https://github.com/andrenavas/andrenavas/assets/124694368/5e6e5aaa-038d-409f-8417-24b2eac41fc2)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andre Navas
 ===================================================================================================================================
