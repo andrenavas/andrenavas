@@ -1,6 +1,6 @@
 ![Banner Profile](https://github.com/andrenavas/andrenavas/assets/124694368/5e6e5aaa-038d-409f-8417-24b2eac41fc2)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andre Navas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=240&lines=Hi!+I'm+Andre+Navas+)](https://git.io/typing-svg) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 Front - End Developer
