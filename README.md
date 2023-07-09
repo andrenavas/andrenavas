@@ -11,8 +11,8 @@ I've been learning to code for the last year, after deciding to make a career ch
 ```javascript
 const andre = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Firebase, Vercel, Git, GitHub, Jest, Figma],
+  code: [Javascript, HTML, CSS, ReactJS, NodeJs],
+  tools: [Firebase, Vercel, Git, GitHub, Jest, Vitest, Figma],
   techCommunities: {
                         bootcamper: "Laboratoria",
                       },
@@ -23,8 +23,8 @@ const andre = {
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [My GitHub](http://github.com/andrenavas)
 * ✉️  You can contact me at [andreynanavas@gmail.com](mailto:andreynanavas@gmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on front-end projects with vanilla javascript
+* 🧠  I'm learning JavaScript and ReactJS
+* 🤝  I'm open to collaborating on front-end projects with JavaScript and ReactJS
 * ⚡  I love listening to comedy podcasts
 
 ### Skills
