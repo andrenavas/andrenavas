@@ -21,7 +21,7 @@ const andre = {
 ```
 
 * 🌍  I'm based in Ecuador
-* 🖥️  See my portfolio at [My GitHub](http://github.com/andrenavas)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-andrenavas.vercel.app/)
 * ✉️  You can contact me at [andreynanavas@gmail.com](mailto:andreynanavas@gmail.com)
 * 🧠  I'm learning JavaScript and ReactJS
 * 🤝  I'm open to collaborating on front-end projects with JavaScript and ReactJS
