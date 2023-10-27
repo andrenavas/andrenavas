@@ -1,4 +1,4 @@
-![Banner Profile](https://github.com/andrenavas/andrenavas/assets/124694368/5e6e5aaa-038d-409f-8417-24b2eac41fc2)
+![BannerAndreNavas](https://github.com/andrenavas/andrenavas/assets/124694368/d2ec6701-5810-48ee-bc2e-0bcc6f9c92b4)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=240&lines=Hi!+I'm+Andre+Navas+)](https://git.io/typing-svg) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
